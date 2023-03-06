@@ -1,0 +1,124 @@
+
+
+{
+ top: 1000px;
+color: blueviolet;
+}
+
+.container1 {
+  margin: 0em;
+  position: relative;
+  border: 0;
+  width: 100%;
+  max-width:100%;
+
+
+}
+
+.top-left {
+  position: absolute;
+  top: 60px;
+  left: 40px;
+  font-size: 36px;
+  color: blanchedalmond;
+}
+
+.design{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 45px;
+  
+}
+
+.design2{
+  position: absolute;
+  top: 59%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+
+}
+p1{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  margin-left: 20px;
+}
+p2{
+  font-size: 38px;
+  margin-left: 30px;
+}
+text{
+  position: absolute;
+  left: 700px;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+}
+.container10{
+  max-width: 1538px;
+  width: 100%;
+  height: 400px;
+  margin: 0em;
+  margin-top: 0px;
+  margin-left: 0px;
+  background: linear-gradient(
+    to top,
+    rgba(255, 123, 255, 0.344) 0%,
+    rgba(255, 56, 255, 0.345) 50%,
+    rgba(255, 56, 255, 0.345) 50%,
+    rgba(255, 139, 255, 0.345) 100%
+  );
+  
+}
+
+.container11{
+  max-width: 1538px;
+  width: 100%;
+  height: 400px;
+  margin: 0em;
+  margin-top: 0px;
+  margin-left: 0px;
+  background: linear-gradient(
+    to top,
+    rgba(14, 33, 42, 0.700) 0%,
+    rgba(14, 33, 42, 0.700) 50%,
+    rgba(14, 33, 42, 0.700) 50%,
+    rgba(14, 33, 42, 0.700) 100%
+  );
+  
+}
+
+
+.text3{
+  position:absolute;
+  right: 400px;
+  font-size: 23px;
+}
+
+.text2{
+  position:absolute;
+  right: 550px;
+  font-size: 40px;
+}
+
+
+
+
+.text1{
+  position: absolute;
+  left: 570px;
+
+}
+.text8{
+  position: absolute;
+  left: 700px;
+
+}
+
+.text10{
+  position: absolute;
+  left: 620px;
+
+}
